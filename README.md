@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Pranali Pandhare here..!
 - 
 -  I’m Computer Science student at Maharashtra Institue of Technology, Aurangabad
--  I’m currently learning React.js
+-  I’m currently learning Java, JavaScript, Angular
 -  Reach me: pranali.ppandhare@gmail.com
 
 <!---
