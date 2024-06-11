@@ -2,7 +2,8 @@
 - 
 -  I’m Computer Science student of Maharashtra Institue of Technology, Aurangabad
 -  I’m currently learning Core-Java, JavaScript, Angular, SpringBoot, Hibernate 
--  Reach me: pranali.ppandhare@gmail.com
+-  Reach me:
+-  Email-ID: pranali.ppandhare@gmail.com
 -  Linkedln: https://www.linkedin.com/in/pranali-pandhare-518875235/
 
 <!---
