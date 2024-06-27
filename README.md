@@ -5,6 +5,7 @@
 -  Reach me:
 -  Email-ID: pranali.ppandhare@gmail.com
 -  Linkedln: https://www.linkedin.com/in/pranali-pandhare-518875235/
+-  Portfolio: https://inspiring-portfolio.netlify.app/
 
 <!---
 pranalipandhare/pranalipandhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
